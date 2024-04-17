@@ -1,0 +1,32 @@
+1920x1080 screen: Height=1012
+1920x1080 screen: Width=1898
+1920x1080 screen: XPosition=11
+1920x1080 screen: YPosition=57
+State=AAAA/wAAAAD9AAAAAQAAAAAAAADIAAADl/wCAAAAAfsAAAAcAG8AawB1AGwAYQByAF8AcwBpAGQAZQBiAGEAcgEAAABdAAADlwAAANwA///+AAAGnAAAA5cAAAAEAAAABAAAAAgAAAAI/AAAAAMAAAABAAAAAQAAACwAcQB1AGkAYwBrAEEAbgBuAG8AdABhAHQAaQBvAG4AVABvAG8AbABCAGEAcgIAAAAA/////wAAAAAAAAAAAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAAgAAAAEAAAAiAGEAbgBuAG8AdABhAHQAaQBvAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+eDP-1=eDP-1
+
+[Desktop Entry]
+FullScreen=false
+
+[General]
+LockSidebar=true
+ShowSidebar=true
+
+[MainWindow]
+1920x1080 screen: Height=1012
+1920x1080 screen: Width=924
+1920x1080 screen: XPosition=985
+1920x1080 screen: YPosition=57
+ToolBarsMovable=Disabled
+eDP-1=eDP-1
+
+[Recent Files]
+File1[$e]=$HOME/Downloads/Assignment 4 (8 NOV 2023).pdf
+File2[$e]=$HOME/Downloads/PPS Assignment no 3(07-11-2023).pdf
+File3[$e]=$HOME/Downloads/CWS prac 4.pdf
+Name1[$e]=Assignment 4 (8 NOV 2023).pdf
+Name2[$e]=PPS Assignment no 3(07-11-2023).pdf
+Name3[$e]=CWS prac 4.pdf
+
+[UiSettings]
+ColorScheme=KvGnomeDark

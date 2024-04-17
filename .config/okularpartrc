@@ -1,0 +1,13 @@
+[Dlg Presentation]
+SlidesCursor=Hidden
+SlidesTransition=NoTransitions
+
+[Document]
+ChangeColors=true
+
+[PageView]
+BackgroundColor=255,255,255
+UseCustomBackgroundColor=true
+
+[Reviews]
+QuickAnnotationTools=<tool default="true" id="1" name="Yellow Highlighter" type="highlight"><engine color="#ffff00" type="TextSelector"><annotation color="#ffffff00" type="Highlight"/></engine><shortcut>1</shortcut></tool>,<tool default="true" id="2" name="Green Highlighter" type="highlight"><engine color="#00ff00" type="TextSelector"><annotation color="#ff00ff00" type="Highlight"/></engine><shortcut>2</shortcut></tool>,<tool id="3" type="underline"><engine color="#ff0000" type="TextSelector"><annotation color="#ffff0000" type="Underline"/></engine><shortcut>3</shortcut></tool>,<tool default="true" id="4" name="Insert Text" type="typewriter"><engine block="true" type="PickPoint"><annotation textColor="#000000" width="0" color="#00ffffff" type="Typewriter"/></engine><shortcut>4</shortcut></tool>,<tool id="5" type="note-inline"><engine hoverIcon="tool-note-inline" color="#ffff00" block="true" type="PickPoint"><annotation textColor="#ff000000" color="#ffffff00" type="FreeText"/></engine><shortcut>5</shortcut></tool>,<tool id="6" type="note-linked"><engine hoverIcon="tool-note" color="#ffff00" type="PickPoint"><annotation icon="Note" color="#ffffff00" type="Text"/></engine><shortcut>6</shortcut></tool>
